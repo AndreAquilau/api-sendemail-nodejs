@@ -47,4 +47,4 @@ export default async function sendEmail(params: {
 ~~~
 
 ### References
-[Node js Send Email using nodemailer and gmail](https://www.youtube.com/watch?v=NB71vyCj2X4)
+[Youtube - Node js Send Email using nodemailer and gmail](https://www.youtube.com/watch?v=NB71vyCj2X4)
