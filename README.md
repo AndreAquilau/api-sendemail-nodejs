@@ -13,6 +13,8 @@ PASSWORD = ******
 SERVICE = gmail
 ~~~
 
+> Gmail Permission: [Permitir aplicações menos seguras: ATIVADO](https://www.youtube.com/redirect?q=https%3A%2F%2Fmyaccount.google.com%2Flesssecureapps&redir_token=QUFFLUhqbHIyQURRckdYbnVZQXpGQWFPNmFCTUxtOGdlUXxBQ3Jtc0trc3hLZlJORExVcXltNnQtbmdGUXg3TDkxempSSTkwU1hpU19UY0tUVk5uWVlMUDFiYVBfczNlVDhFLTNPV1NkTWlOYzBnTHQtM1NLUDBZdldRWmEzTGFJYTl2T2dBaExkVnEzVnd2NUVOcDJMUmo0SQ%3D%3D&event=video_description&v=NB71vyCj2X4)
+
 > nodemailer.ts
 ~~~ts
 import nodemailer from 'nodemailer';
@@ -43,3 +45,6 @@ export default async function sendEmail(params: {
   return res;
 }
 ~~~
+
+### References
+[Node js Send Email using nodemailer and gmail](https://www.youtube.com/watch?v=NB71vyCj2X4)
